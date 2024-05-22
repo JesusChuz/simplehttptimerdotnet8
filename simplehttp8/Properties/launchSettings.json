@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "simplehttp8": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7112",
+      "launchBrowser": false
+    }
+  }
+}
