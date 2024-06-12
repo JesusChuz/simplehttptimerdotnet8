@@ -9,7 +9,7 @@ steps:
   inputs:
     command: 'build'
     projects: '**/*.csproj'
-    arguments: '--output publish_output --configuration Release'
+    arguments: '--no-restore'
     
 - task: ArchiveFiles@2
   displayName: 'Archive files'
