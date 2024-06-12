@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\JesusAdmin\\Documents\\Repros\\DotNetFunctionApps\\dotnet8corrupted-reprocase\\simplehttp8\\",
+  "WorkspaceRootPath": "C:\\Users\\JesusAdmin\\Documents\\Repros\\DotNetFunctionApps\\dotnet8corrupted-reprocase\\simplehttptimerdotnet8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56BDF9E4-D621-4A03-B804-F8E2FEEF6D01}|simplehttp8\\simplehttp8.csproj|c:\\users\\jesusadmin\\documents\\repros\\dotnetfunctionapps\\dotnet8corrupted-reprocase\\simplehttp8\\simplehttp8\\timerfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56BDF9E4-D621-4A03-B804-F8E2FEEF6D01}|simplehttp8\\simplehttp8.csproj|solutionrelative:simplehttp8\\timerfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56BDF9E4-D621-4A03-B804-F8E2FEEF6D01}|simplehttp8\\simplehttp8.csproj|c:\\users\\jesusadmin\\documents\\repros\\dotnetfunctionapps\\dotnet8corrupted-reprocase\\simplehttptimerdotnet8\\simplehttp8\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56BDF9E4-D621-4A03-B804-F8E2FEEF6D01}|simplehttp8\\simplehttp8.csproj|solutionrelative:simplehttp8\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56BDF9E4-D621-4A03-B804-F8E2FEEF6D01}|simplehttp8\\simplehttp8.csproj|c:\\users\\jesusadmin\\documents\\repros\\dotnetfunctionapps\\dotnet8corrupted-reprocase\\simplehttp8\\simplehttp8\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56BDF9E4-D621-4A03-B804-F8E2FEEF6D01}|simplehttp8\\simplehttp8.csproj|c:\\users\\jesusadmin\\documents\\repros\\dotnetfunctionapps\\dotnet8corrupted-reprocase\\simplehttptimerdotnet8\\simplehttp8\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56BDF9E4-D621-4A03-B804-F8E2FEEF6D01}|simplehttp8\\simplehttp8.csproj|solutionrelative:simplehttp8\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,25 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TimerFunc.cs",
-              "DocumentMoniker": "C:\\Users\\JesusAdmin\\Documents\\Repros\\DotNetFunctionApps\\dotnet8corrupted-reprocase\\simplehttp8\\simplehttp8\\TimerFunc.cs",
-              "RelativeDocumentMoniker": "simplehttp8\\TimerFunc.cs",
-              "ToolTip": "C:\\Users\\JesusAdmin\\Documents\\Repros\\DotNetFunctionApps\\dotnet8corrupted-reprocase\\simplehttp8\\simplehttp8\\TimerFunc.cs",
-              "RelativeToolTip": "simplehttp8\\TimerFunc.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T19:10:18.458Z",
+              "Title": "host.json",
+              "DocumentMoniker": "C:\\Users\\JesusAdmin\\Documents\\Repros\\DotNetFunctionApps\\dotnet8corrupted-reprocase\\simplehttptimerdotnet8\\simplehttp8\\host.json",
+              "RelativeDocumentMoniker": "simplehttp8\\host.json",
+              "ToolTip": "C:\\Users\\JesusAdmin\\Documents\\Repros\\DotNetFunctionApps\\dotnet8corrupted-reprocase\\simplehttptimerdotnet8\\simplehttp8\\host.json",
+              "RelativeToolTip": "simplehttp8\\host.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T14:42:09.356Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Function1.cs",
-              "DocumentMoniker": "C:\\Users\\JesusAdmin\\Documents\\Repros\\DotNetFunctionApps\\dotnet8corrupted-reprocase\\simplehttp8\\simplehttp8\\Function1.cs",
+              "DocumentMoniker": "C:\\Users\\JesusAdmin\\Documents\\Repros\\DotNetFunctionApps\\dotnet8corrupted-reprocase\\simplehttptimerdotnet8\\simplehttp8\\Function1.cs",
               "RelativeDocumentMoniker": "simplehttp8\\Function1.cs",
-              "ToolTip": "C:\\Users\\JesusAdmin\\Documents\\Repros\\DotNetFunctionApps\\dotnet8corrupted-reprocase\\simplehttp8\\simplehttp8\\Function1.cs",
+              "ToolTip": "C:\\Users\\JesusAdmin\\Documents\\Repros\\DotNetFunctionApps\\dotnet8corrupted-reprocase\\simplehttptimerdotnet8\\simplehttp8\\Function1.cs",
               "RelativeToolTip": "simplehttp8\\Function1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T19:07:47.716Z",
               "EditorCaption": ""
