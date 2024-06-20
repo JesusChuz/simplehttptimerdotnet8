@@ -19,5 +19,10 @@ steps:
     archiveType: 'zip'
     archiveFile: '$(System.DefaultWorkingDirectory)/build$(Build.BuildId).zip'
 
+#- task: PublishBuildArtifacts@1
+#  displayName: 'Publish Artifact: drop'
 - task: PublishBuildArtifacts@1
-  displayName: 'Publish Artifact: drop'
+  displayName: Publish
+  inputs: 
+    PathtoPublish: $(System.DefaultWorkingDirectory)/build$(Build.BuildId).zip'
+    ArtifactName: 'drop'
