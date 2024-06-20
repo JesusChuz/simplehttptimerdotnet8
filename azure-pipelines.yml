@@ -14,8 +14,10 @@ steps:
 - task: ArchiveFiles@2
   displayName: 'Archive files'
   inputs:
-    rootFolderOrFile: 'publish_output/'
+    rootFolderOrFile: '$(System.DefaultWorkingDirectory)/publish_output/'
     includeRootFolder: false
+    archiveType: 'zip'
+    archiveFile: '$(System.DefaultWorkingDirectory)/build$(Build.BuildId).zip'
 
 - task: PublishBuildArtifacts@1
   displayName: 'Publish Artifact: drop'
