@@ -10,7 +10,12 @@ steps:
     command: 'build'
     projects: '**/*.csproj'
     arguments: '--output publish_output --configuration Release'
-    
+
+- task: VSTest@2
+  inputs:
+      platform: 'Any CPU'
+      configuration: 'Release'
+
 - task: ArchiveFiles@2
   displayName: 'Archive files'
   inputs:
